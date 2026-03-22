@@ -310,7 +310,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Md Arifuzzaman Swapnil
+Copyright (c) 2024 M Mobasher Reza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -326,15 +326,15 @@ copies or substantial portions of the Software.
 ## 👨‍💻 Developer Information
 
 **Md Arifuzzaman Swapnil**
-- 📧 Email: md.arifuzzamanswapnil@gmail.com
-- 📱 Phone: +880 1722569839
-- 🌐 GitHub: [@Arifuzzaman-Swapnil](https://github.com/Arifuzzaman-Swapnil)
-- 🔗 LinkedIn: [Connect with me](https://linkedin.com/in/arifuzzaman-swapnil)
+- 📧 Email: mobasherrezajobs@gmail.com
+- 📱 Phone: +880 1706630702
+- 🌐 GitHub: [@Mobasher-Reza](https://github.com/mobahser-reza))
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/m-mobasher-r-0853b7132/)
 
 ---
 
 ⭐ **Star this repository if you found it helpful!**
 
-🔗 **Live Demo**: [Visit the Animal Classification Website](https://Arifuzzaman-Swapnil.github.io/Animal-Classification-WebSite/index.html)
+🔗 **Live Demo**: [Visit the Animal Classification Website]
 
-📚 **Related Project**: [Animal Classification Model Evaluation](https://github.com/Arifuzzaman-Swapnil/Animal-Classification-CNN)
+📚 **Related Project**: [Animal Classification Model Evaluation]
