@@ -110,7 +110,7 @@ animal-classification-website/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Arifuzzaman-Swapnil/Animal-Classification-WebSite.git
+git clone https://github.com/mobasher-reza/Animal-Classification-AI.git
 cd Animal-Classification-WebSite
 ```
 
